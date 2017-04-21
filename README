@@ -1,5 +1,6 @@
-Simple data container created for educational purposes.
-The main.cpp file is sample code uses container.
+Simple data container based on bi-directional lists 
+created for educational purposes.The main.cpp file is 
+sample code uses container.
 
 Compilation:
   g++ main.cpp -std=c++11
